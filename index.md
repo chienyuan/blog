@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: Eric Feng
 ---
-Hello World!
