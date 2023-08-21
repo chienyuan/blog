@@ -1,6 +1,5 @@
 ---
 title: firstpost
-layout: page
 date: 2023-08-19
 ---
 This my my first post using github page.
@@ -12,7 +11,7 @@ I don't use **Markdown** very ofen. Let me review some basic here.
 
 So the search engine could find it.
 
-![small people](small_people.jpg "small people")
+![small people](https://github.com/chienyuan/blog/blob/main/_posts/small_people.jpg?raw=true "small people")
   
 ```
 ![Alt text][image-path.png "image title"]
