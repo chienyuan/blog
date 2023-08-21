@@ -12,7 +12,7 @@ I don't use **Markdown** very ofen. Let me review some basic here.
 
 So the search engine could find it.
 
-![small people](https://github.com/chienyuan/blog/blob/main/_posts/small_people.jpg?raw=true "small people")
+![small people](small_people.jpg "small people")
   
 ```
 ![Alt text][image-path.png "image title"]
